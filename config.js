@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "HELLU!!",
+    introTitle: 'GỬI TẶNG CẢ NHÀ',
+    introDesc: `Đến từ một người dễ thưn bí ẩn tên T.`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Trả lời thành thật nha 🥰',
+    desc: 'Mọi ngừi có ghét T. không? ',
+    btnYes: 'Ghét chết đi đc <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question: 'Huhu tại sao mn lại không iu quý T. <3',
+    btnReply: 'Gửi nè <3',
+    reply: 'Haha đùa thui T. dễ thưn mà <33333333',
+    mess: ' Biết mà hihi🥰. Yêu mn nhiều nhiều 😘😘',
+    messDesc: 'HAPPY NEW YEAR!!. Mọi người đã rất cố gắng trong suốt cả năm vừa qua rồi. Chúc cho cả nha mình lun dễ thưn và năng suất hơn trong năm mới nữa ha hmihmi:>>',
+    btnAccept: 'Quạc Quạc<3',
+    messLink: 'https://www.youtube.com/watch?v=zQZ2WVRKPbA',
 }
